@@ -1,37 +1,19 @@
 # C# Homework Repository
 
-This repository contains C# solutions for various homework assignments by Vahe Mirzoyan, Group 3, under the guidance of Lecturer Albert Darbinyan.
+This repository contains C# solutions for various homework assignments by Vahe Mirzoyan, under the guidance of Lecturer Albert Darbinyan.
 
 ## Homework List
 
-1. **Task1: Horse Strokes**
-   - Display horse strokes in an 8x8 matrix.
-   - File: `Task1_HorseStrokes.cs`
+Task1.  Show the horse strokes in the matrix [8,8]
+Task2.  Show the queen strokes in the matrix [8,8]
+Task3. Randomly place queens on the chessboard so that they do not hit each other.
+Task4. The horse (knight) will step from the mentioned field with random free fields once.
+Task5. Saddle point. Given an MxN integer size matrix. Determine and find the matrix element that is largest in its row and smallest in its column. If no such element exists, display the message "no".
+Task6. Randomly fill non-repeating numbers in an NxM matrix.
 
-2. **Task2: Queen Strokes**
-   - Display queen strokes in an 8x8 matrix.
-   - File: `Task2_QueenStrokes.cs`
+## Student
+- **Student:** Vahe Mirzoyan (Group 3) [i22.Mirzoyan.Vahe@etud.ufar.am](mailto:i22.Mirzoyan.Vahe@etud.ufar.am)
 
-3. **Task3: Random Queens Placement**
-   - Randomly place queens on a chessboard without collisions.
-   - File: `Task3_RandomQueensPlacement.cs`
-
-4. **Task4: Knight's Move**
-   - Move knight from a field to a random free field.
-   - File: `Task4_KnightsMove.cs`
-
-5. **Task5: Saddle Point**
-   - Find saddle point in MxN matrix.
-   - File: `Task5_SaddlePoint.cs`
-
-6. **Task6: Random Matrix Filling**
-   - Randomly fill non-repeating numbers in an NxM matrix.
-   - File: `Task6_RandomMatrixFilling.cs`
-
-## Student & Lecturer
-
-- **Student:** Vahe Mirzoyan (Group 3)
-- **Email:** [i22.Mirzoyan.Vahe@etud.ufar.am](mailto:i22.Mirzoyan.Vahe@etud.ufar.am)
+##Lecturer
 - **Lecturer:** Albert Darbinyan ([albdarb.com](http://albdarb.com))
 
-Feel free to explore the code and learn from the solutions provided by Vahe Mirzoyan. If you have any questions or feedback, please contact the lecturer, Albert Darbinyan, or the student directly via [email](mailto:i22.Mirzoyan.Vahe@etud.ufar.am).
