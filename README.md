@@ -16,6 +16,15 @@ Task5. Saddle point. Given an MxN integer size matrix. Determine and find the ma
 
 Task6. Randomly fill non-repeating numbers in an NxM matrix.
 
+Task7. Queen placement in Matrix [8,8] with heuristic method. Place queens on a chessboard so that
+they do not hit each other, using the heuristic of maximum free for queen fields. Display the current results
+of the heuristic run. Explanation in more detail in the classroom.
+
+Task8. Knight moving in Matrix [8,8] with heuristic method. Any next move of the knight in the free
+field is selected by a special template with mninimum value. Template is the number of knight moves in the
+initial chessboard. Display the current results of the heuristic run. Explanation in more detail in the
+classroom.
+
 ## Student
 - **Student:** Vahe Mirzoyan (Group 3) [i22.Mirzoyan.Vahe@etud.ufar.am](mailto:i22.Mirzoyan.Vahe@etud.ufar.am)
 
